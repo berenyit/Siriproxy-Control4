@@ -1,0 +1,4 @@
+
+- name: 'Control4'
+  path: './plugins/siriproxy-control4'
+  ip_controller: '127.0.0.1'

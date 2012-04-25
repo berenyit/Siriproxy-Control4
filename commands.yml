@@ -1,0 +1,69 @@
+
+#set up your voice commands here for all possible events
+
+event01:
+
+  commands:
+  - command
+  - command
+
+  answer: siri answer
+
+
+event02:
+
+  commands:
+  - command
+  - command
+
+  answer: siri answer
+
+event03:
+
+  commands:
+  - command
+  - command
+
+  answer: siri answer
+
+event04:
+
+  commands:
+  - command
+  - command
+
+  answer: siri answer
+
+event05:
+
+  commands:
+  - command
+  - command
+
+  answer: siri answer
+
+
+event06:
+
+  commands:
+  - command
+  - command
+
+   answer: siri answer
+
+event07:
+
+  commands:
+  - command
+  - command
+
+  answer: siri answer
+
+event08:
+
+  commands:
+  - command
+  - command
+
+  answer: siri answer
+
