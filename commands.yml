@@ -1,11 +1,10 @@
-
 #set up your voice commands here for all possible events
 
 event01:
 
   commands:
-  - command
-  - command
+  - command1
+  - command2
 
   answer: siri answer
 
@@ -13,32 +12,32 @@ event01:
 event02:
 
   commands:
-  - command
-  - command
+  - command3
+  - command4
 
   answer: siri answer
 
 event03:
 
   commands:
-  - command
-  - command
+  - command5
+  - command6
 
   answer: siri answer
 
 event04:
 
   commands:
-  - command
-  - command
+  - command7
+  - command8
 
   answer: siri answer
 
 event05:
 
   commands:
-  - command
-  - command
+  - command9
+  - command10
 
   answer: siri answer
 
@@ -46,24 +45,24 @@ event05:
 event06:
 
   commands:
-  - command
-  - command
+  - command11
+  - command12
 
    answer: siri answer
 
 event07:
 
   commands:
-  - command
-  - command
+  - command13
+  - command14
 
   answer: siri answer
 
 event08:
 
   commands:
-  - command
-  - command
+  - command15
+  - command16
 
   answer: siri answer
 
